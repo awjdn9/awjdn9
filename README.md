@@ -1,8 +1,20 @@
 ## Welcome to my GitHub!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Follow me on LinkedIn.
+I'm Andrew 👋
 
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-w-johnson/)
 
+---
+
+## About Me
+
+I’m a lifelong learner and passionate technologist who thrives on trying new tools, frameworks, and languages.  
+
+Whether I’m tinkering with the latest AI models, architecting home‑lab networks, or exploring a new programming paradigm, I love turning ideas into reality—and sharing the journey along the way!
+
+---
+
+## Favorites & Highlights
 
 ### Favorite LLM of the Day
 
